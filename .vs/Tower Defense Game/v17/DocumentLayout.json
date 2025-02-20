@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|d:\\download\\3rd year 1st\\gameprog\\tower defense game\\assets\\script\\upgradeuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\upgradeuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\assets\\script\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|d:\\download\\3rd year 1st\\gameprog\\tower defense game\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\assets\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\assets\\script\\goldcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goldcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\assets\\script\\tilemaptowerplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tilemaptowerplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\assets\\script\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\assets\\script\\towermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\towermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\assets\\script\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\assets\\script\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA4D2F-303A-3464-D1E2-A4F41F7AEA0C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:16:47.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerHealth.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerHealth.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:26:02.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoldCoin.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\GoldCoin.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GoldCoin.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\GoldCoin.cs",
+              "RelativeToolTip": "Assets\\Script\\GoldCoin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:26:21.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tower.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\Tower.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Tower.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\Tower.cs",
+              "RelativeToolTip": "Assets\\Script\\Tower.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAcwL8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:54:19.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Projectile.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Script\\Projectile.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAWwB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:55:33.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpgradeUIManager.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\UpgradeUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UpgradeUIManager.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\UpgradeUIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\UpgradeUIManager.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:19:23.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TilemapTowerPlacement.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\TilemapTowerPlacement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TilemapTowerPlacement.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\TilemapTowerPlacement.cs",
+              "RelativeToolTip": "Assets\\Script\\TilemapTowerPlacement.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:10:21.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameOverManager.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameOverManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T14:01:31.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TowerManager.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\TowerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TowerManager.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\TowerManager.cs",
+              "RelativeToolTip": "Assets\\Script\\TowerManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:17:18.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraShake.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraShake.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:39:13.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemySpawner.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemySpawner.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:48:50.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WaveManager.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\WaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WaveManager.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Tower Defense Game\\Assets\\Script\\WaveManager.cs",
+              "RelativeToolTip": "Assets\\Script\\WaveManager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:21:45.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
